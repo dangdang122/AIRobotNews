@@ -7,12 +7,7 @@
 ## 🚀 프로젝트 개요
 * **주제**: 초지능 AI와 로봇 기술 뉴스 큐레이션 웹 플랫폼
 * **개발 배경**: 인공지능소프트웨어과 전공자로서 실무적인 웹 아키텍처 설계 및 풀스택 개발 역량 강화
-* **개발 환경**: Java 17, Spring Boot, Thymeleaf, HTML5/CSS3
 
-## 🛠 주요 기술 스택
-- **Backend**: Spring Boot, Jakarta Servlet API, Lombok
-- **Frontend**: Thymeleaf, CSS3 (Responsive Design)
-- **Tool**: IntelliJ IDEA, Git/GitHub
 
 ## 💡 핵심 기능 및 차별화 전략
 
